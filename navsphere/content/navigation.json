@@ -6,7 +6,16 @@
       "icon": "LayoutList",
       "description": "最爱",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1756574181376_d0pdzqbma",
+          "title": "skywork.ai/",
+          "href": "https://skywork.ai/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
