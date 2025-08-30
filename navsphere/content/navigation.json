@@ -142,6 +142,14 @@
           "description": "",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "site_1756574751149_r50oi3d36",
+          "title": "国家哲学社会科学文献中心",
+          "href": "https://www.ncpssd.org/index",
+          "description": "",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": [],
