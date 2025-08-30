@@ -134,6 +134,14 @@
           "description": "",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "site_1756574659822_2cwvlu4lr",
+          "title": "CCTV",
+          "href": "https://tv.cctv.com/live/index.shtml?spm=C96370.PPDB2vhvSivD.EiWgcS6gSLDw.1",
+          "description": "",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": [],
