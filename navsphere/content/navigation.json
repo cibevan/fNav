@@ -84,6 +84,14 @@
           "description": "",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "site_1756571467680_m9axz78tm",
+          "title": "科学上网",
+          "href": "https://www.iyio.net/",
+          "description": "",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": [],
