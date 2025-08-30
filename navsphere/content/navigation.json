@@ -834,6 +834,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1756571535749",
+      "title": "我的最爱",
+      "icon": "LayoutList",
+      "description": "最爱",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
