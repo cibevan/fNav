@@ -184,6 +184,14 @@
           "description": "",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "site_1756718469816_vqmkxiqxg",
+          "title": "订阅转换",
+          "href": "https://sub.v1.mk/",
+          "description": "",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": [
