@@ -925,6 +925,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1756719839146",
+      "title": "日常使用",
+      "icon": "Settings",
+      "description": "日常使用",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
